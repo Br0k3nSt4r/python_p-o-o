@@ -8,7 +8,7 @@ class Persona:
         print("Nombre: ", self.nombre)
         print("Apellidos: ", self.apellido)
         print("Edad: ", self.edad)
-
+"""
 def main():
     print("Vamos a  aprender P.O.O en Python.../")
     persona1= Persona("Lorenzo", "Perez", 18)
@@ -17,3 +17,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
