@@ -66,7 +66,7 @@ class Persona:
         print("Edad: ", self.edad)
 
 def main():
-    print("Vamos a  aprender P.O.O en Python.../")
+    print("Vamos a  aprender P.O.O en Python...")
     persona1= Persona("Lorenzo", "Perez", 18)
     persona1.mostrarPersona()
 
