@@ -168,6 +168,7 @@ class Cuadrado:
 ```
 
 ## Herencia
+
 - Permite la reutilización de código.
 - Consiste en la definición de una clase utilizando como base una clase ya existente.
 - La nueva clase derivada tendrá todas las caracteristicas de la clase base y ampliará el concepto de esta, es decir, tendrá todos los atributos y métodos de la clase base.
